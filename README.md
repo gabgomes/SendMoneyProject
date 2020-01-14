@@ -1,1 +1,1 @@
-# SendMoneyProject
+# SendMoney
